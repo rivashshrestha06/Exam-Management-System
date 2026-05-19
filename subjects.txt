@@ -1,0 +1,6 @@
+E01|Mathematics-III|3|40|0|3
+E02|Data Structure and Algorithm|3|40|30|3
+E03|Object Oriented Analysis and Design|3|40|0|3
+E04|Computer Graphics|3|40|30|3
+E05|Electronic Devices and Circuits|3|40|25|3
+E06|Applied Sociology|3|20|0|3

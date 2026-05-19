@@ -1,0 +1,6 @@
+T001|password123|Keshav Paudel|E01
+T002|password456|Reena Manandhar|E02
+T003|password789|Dinesh Gothe|E03
+T004|password012|Milan Chikanbanjar|E04
+T005|password345|Ramila Awale|E05
+T006|password678|Anju Neupane|E06

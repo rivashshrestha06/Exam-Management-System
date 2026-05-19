@@ -1,0 +1,4 @@
+E01-Assessment|Mathematics-III|2026-05-10|12:00|Assessment|02 hour : 00 minutes|40|16|3
+E01-Test|Mathematics-III|2026-05-05|12:10|Test|00 hour : 30 minutes|15|6|3
+E02-Viva|Data Structure and Algorithm|2026-05-16|09:30|Viva|00 hour : 20 minutes|10|4|3
+E06-Test|Applied Sociology|2026-05-15|07:00|Test|02 hour : 00 minutes|50|20|3
